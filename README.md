@@ -4,13 +4,16 @@ Overview
 
 Smart Study is a single-page responsive web app (single HTML file) built with plain HTML, CSS, and JavaScript. It helps school students revise from coursebook PDFs using a set of mock AI features, a quiz generator, and a progress tracker that stores results in the browser's localStorage.
 
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/ae1848d6-c33e-4844-a592-1dec6ef934a5" />
 
-<img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/2434053e-b7f0-4952-b0dc-d2f2cbd8a5ff" />
-<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/ae047df6-cea5-4edb-8e48-14628058c771" />
-<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/86793101-d555-4bf7-b757-75c009e1b8a0" />
-<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/49703c60-8272-43f1-9e66-7783e5727e09" />
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/40fe2897-73ae-41a2-a7d1-e812a7e64c66" />
 
 
+<img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/a0800758-53d5-4371-9522-8fb87c2b4598" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/0c275e46-44db-4434-ab65-298bfe360a4d" />
 
 
 
@@ -67,4 +70,5 @@ If you'd like, I can:
 - Show how to wire an LLM API securely using a small server example.
 
 Open an issue or tell me which next step you want and I'll implement it.
+
 
